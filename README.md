@@ -1,6 +1,6 @@
 # T3SIJoelExposito
 ## Partiendo de tu directorio de inicio, realiza cada uno de los siguientes apartados:
-- ##Haz que tu directorio de trabajo actual sea el directorio padre de tu directorio de
+- ## Haz que tu directorio de trabajo actual sea el directorio padre de tu directorio de
 inicio.
 Escribe:
 ~~~~
@@ -39,7 +39,7 @@ Para conocer la fecha y hora hay que poner:
 ~~~~
 date
 ~~~~
-## - Usando un solo comando posiciónate en tu directorio de inicio.
+## Usando un solo comando posiciónate en tu directorio de inicio.
 Para colocarte en el directorio de inicio:
 ~~~~
 cd
