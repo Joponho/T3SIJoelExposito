@@ -1,7 +1,10 @@
 # T3SIJoelExposito
 **Ejercicio 4** Partiendo de tu directorio de inicio, realiza cada uno de los siguientes apartados:
 - Haz que tu directorio de trabajo actual sea el directorio padre de tu directorio de
-inicio
+inicio.
+~~~~
+cd
+~~~~
 - Visualiza la ruta de tu directorio de trabajo actual.
 - Obtén un listado de todos los ficheros/directorios que cuelgan de tu directorio de
 trabajo actual.
