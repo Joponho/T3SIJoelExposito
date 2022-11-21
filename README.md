@@ -1,6 +1,6 @@
 # T3SIJoelExposito
 **Ejercicio 4** Partiendo de tu directorio de inicio, realiza cada uno de los siguientes apartados:
-## - Haz que tu directorio de trabajo actual sea el directorio padre de tu directorio de
+- ##Haz que tu directorio de trabajo actual sea el directorio padre de tu directorio de
 inicio.
 Escribe:
 ~~~~
