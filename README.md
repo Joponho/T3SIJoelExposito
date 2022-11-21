@@ -2,13 +2,29 @@
 **Ejercicio 4** Partiendo de tu directorio de inicio, realiza cada uno de los siguientes apartados:
 - Haz que tu directorio de trabajo actual sea el directorio padre de tu directorio de
 inicio.
+Escribe:
 ~~~~
 cd
 ~~~~
+< Con cd vas directamente al directorio de incio.
 - Visualiza la ruta de tu directorio de trabajo actual.
+Para comprobar escribe:
+~~~~
+pwd
+~~~~
+Tendría que salirte:
+~~~~
+home/tunombre
+~~~~
 - Obtén un listado de todos los ficheros/directorios que cuelgan de tu directorio de
 trabajo actual.
-- Realiza un listado recursivo de tu directorio de inicio.
+Para conocer todos los ficheros/direcorios dentro de tu directorio:
+~~~~
+ls
+~~~~
+## - Realiza un listado recursivo de tu directorio de inicio.
+Para conocer todos los ficheros/direcorios dentro de tu directorio de forma recursiva:
+ls -l
 - Obtén la ayuda del comando passwd.
 - Obtén la fecha y la hora del sistema.
 - Usando un solo comando posiciónate en tu directorio de inicio.
