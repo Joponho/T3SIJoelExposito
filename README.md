@@ -154,7 +154,7 @@ Te saldrá tal que así:
 ~~~~
 TuNombreUsuario@TuNombreUsuario-VirtualBox:~$
 ~~~~
-- ## Con un solo comando elimina los directorios creados en el paso i).
+- ## Con un solo comando elimina los directorios Grupo y Iru.
 Para eliminar un directorio utiliza *"rmdir"* y lo siguiente escribe los directorios que quieras elimnar:
 ~~~~
 rmdir Grado Iru
