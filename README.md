@@ -97,7 +97,7 @@ Para colocarte en el directorio de inicio:
 ~~~~
 cd
 ~~~~
-> Con cd vas siempre al directorio de incio.
+> Nota: Con cd vas siempre al directorio de incio.
 - ## Crea un fichero materias que contenga el nombre de las materias en las que te has matriculado (cada una en una línea distinta).
 Crea un fichero materias con las materias en las que te has matriculado:
 ~~~~
@@ -111,6 +111,7 @@ Base de datos
 Programación
 Lenguaje de marcas
 ~~~~
+> Nota: CTRL + S para guardar, CTRL + O para guardar y ponerle un nombre, CTRL + X para salir etc...En el propio nano te pone todos los comandos. 
 
 - ## Con un solo comando, crea dos directorios grado y lru.
 ~~~~
@@ -145,7 +146,7 @@ Para eliminar un fichero escribe *"rm"* y el fichero en cuestión.
 ~~~~
 rm Asignaturas
 ~~~~
-> Con rm solo borras ficheros.
+> Nota: Con rm solo borras ficheros.
 - ## Sube al directorio de inicio.
 ~~~~
 cd
@@ -159,4 +160,4 @@ Para eliminar un directorio utiliza *"rmdir"* y lo siguiente escribe los directo
 ~~~~
 rmdir Grado Iru
 ~~~~
-> Para eliminar directorio hace falta añadir dir al rm.
+> Nota: Para eliminar directorio hace falta añadir dir al rm.
