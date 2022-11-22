@@ -79,14 +79,17 @@ En este caso no nos mostrara el fichero Materias por dos razones:
 cd Grado
 ~~~~
 - ## Elimina el fichero Asignaturas.
+Para eliminar un fichero escribe *"rm"* y el fichero en cuestión.
 ~~~~
 rm Asignaturas
 ~~~~
+> Con rm solo borras ficheros.
 - ## Sube al directorio de inicio.
 ~~~~
 cd
 ~~~~
 - ## Con un solo comando elimina los directorios creados en el paso i).
+Para eliminar un directorio utiliza *"rmdir"* y lo siguiente escribe los directorios que quieras elimnar:
 ~~~~
 rmdir Grado Iru
 ~~~~
