@@ -43,6 +43,55 @@ o
 ~~~~
 passwd --help
 ~~~~
+Te saldra esto:
+~~~~
+Modo de uso: passwd [opciones] [USUARIO]
+
+Opciones:
+
+  -a, --all                     informa del estado de las contraseñas de
+
+                                todas las cuentas
+
+  -d, --delete                  borra la contraseña para la cuenta indicada
+
+  -e, --expire                  fuerza a que la contraseña de la cuenta
+
+                                caduque
+
+  -h, --help                    muestra este mensaje de ayuda y termina
+
+  -k, --keep-tokens             cambia la contraseña sólo si ha caducado
+
+  -i, --inactive INACTIVO       establece la contraseña inactiva después de
+
+                                caducar a INACTIVO
+
+  -l, --lock                    bloquea la contraseña de la cuenta indicada
+
+  -n, --mindays DÍAS_MIN        establece el número mínimo de días antes
+
+                                de que se cambie la contraseña a DÍAS_MIN
+
+  -q, --quiet                   modo silencioso
+
+  -r, --repository REP          cambia la contraseña en el repositorio REP
+
+  -R, --root CHROOT_DIR         directorio en el que hacer chroot
+
+  -S, --status                  informa del estado de la contraseña la cuenta
+
+                                indicada
+
+  -u, --unlock                  desbloquea la contraseña de la cuenta indicada
+
+  -w, --warndays DÍAS_AVISO     establece el aviso de caducidad a DÍAS_AVISO
+
+  -x, --maxdays DÍAS_MAX        establece el número máximo de días antes de
+
+                                cambiar la contraseña a DÍAS_MAX
+
+~~~~
 - ## Obtén la fecha y la hora del sistema.
 Para conocer la fecha y hora hay que poner:
 ~~~~
