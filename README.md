@@ -3,9 +3,8 @@
 - ## Haz que tu directorio de trabajo actual sea el directorio padre de tu directorio de inicio.
 Escribe:
 ~~~~
-cd
+cd ..
 ~~~~
-> Con cd vas siempre al directorio de incio.
 - ## Visualiza la ruta de tu directorio de trabajo actual.
 Para comprobar escribe:
 ~~~~
@@ -13,7 +12,7 @@ pwd
 ~~~~
 Tendría que salirte:
 ~~~~
-home/TuNombreUsuario/DirectorioInicio
+/home
 ~~~~
 - ## Obtén un listado de todos los ficheros/directorios que cuelgan de tu directorio de
 trabajo actual.
@@ -21,9 +20,20 @@ Para conocer todos los ficheros/direcorios dentro de tu directorio:
 ~~~~
 ls
 ~~~~
+Tendría que salirte esto:
+~~~~
+TuNombreUsuario
+~~~~
 - ## Realiza un listado recursivo de tu directorio de inicio.
 Para conocer todos los ficheros/direcorios dentro de tu directorio de forma recursiva:
+~~~~
 ls -l
+~~~~
+Tendría que salirte el total de archivos, los directorios que tienes y los permisos que tienen esos directrios:
+~~~~
+total 4
+drwxr-x--- 15 TuNombreUsuario TuNombreUsuario 4096 nov 22 12:31 TuNombreUsuario
+~~~~
 - ## Obtén la ayuda del comando passwd.
 Para obtener la ayuda de passwd:
 ~~~~
