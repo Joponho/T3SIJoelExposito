@@ -18,8 +18,7 @@ Tendría que salirte:
 ~~~~
 /home
 ~~~~
-- ## Obtén un listado de todos los ficheros/directorios que cuelgan de tu directorio de
-trabajo actual.
+- ## Obtén un listado de todos los ficheros/directorios que cuelgan de tu directorio de trabajo actual.
 Para conocer todos los ficheros/direcorios dentro de tu directorio:
 ~~~~
 ls
