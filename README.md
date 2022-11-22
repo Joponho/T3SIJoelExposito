@@ -14,7 +14,7 @@ pwd
 ~~~~
 Tendría que salirte:
 ~~~~
-home/tunombre
+home/TuNombreUsuario/DirectorioInicio
 ~~~~
 - ## Obtén un listado de todos los ficheros/directorios que cuelgan de tu directorio de
 trabajo actual.
@@ -64,9 +64,31 @@ Lenguaje de marcas
 mkdir Grado Iru
 ~~~~
 - ## Usando un solo comando, mueve tu fichero materias para que cuelgue de tu directorio grado pero con el nombre asignaturas.
-
+~~~~
+mv Materias home/TuNombreUsuario/Grado/Asignaturas
+~~~~
 - ## Visualiza los ficheros/directorios de tu directorio de trabajo actual y responde a la siguiente cuestión: ¿dónde está tu fichero materias?
+Para mostrar los ficheros y los directorios del direcotorio donde estás trabajando:
+~~~~
+ls
+~~~~
+En este caso no nos mostrara el fichero Materias por dos razones:
+- Porque el fichero Materias ya no está en el directorio actual de trabajo si no en el directorio Grado.
+- Porque el fichero Materias se le cabió el nombre a Asignaturas.
 - ## Posiciónate en tu directorio grado.
-- ## Elimina el fichero asignaturas.
+~~~~
+cd Grado
+~~~~
+- ## Elimina el fichero Asignaturas.
+~~~~
+rm Asignaturas
+~~~~
 - ## Sube al directorio de inicio.
+~~~~
+cd
+~~~~
 - ## Con un solo comando elimina los directorios creados en el paso i).
+~~~~
+rmdir Grado Iru
+~~~~
+< Para eliminar directorio hace falta añadir dir al rm.
