@@ -44,7 +44,7 @@ Para colocarte en el directorio de inicio:
 ~~~~
 cd
 ~~~~
-< Con cd vas siempre al directorio de incio.
+> Con cd vas siempre al directorio de incio.
 - ## Crea un fichero materias que contenga el nombre de las materias en las que te has matriculado (cada una en una línea distinta).
 Crea un fichero materias con las materias en las que te has matriculado:
 ~~~~
