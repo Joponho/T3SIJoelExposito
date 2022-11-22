@@ -6,7 +6,7 @@ Escribe:
 ~~~~
 cd
 ~~~~
-< Con cd vas siempre al directorio de incio.
+> Con cd vas siempre al directorio de incio.
 - ## Visualiza la ruta de tu directorio de trabajo actual.
 Para comprobar escribe:
 ~~~~
@@ -91,4 +91,4 @@ cd
 ~~~~
 rmdir Grado Iru
 ~~~~
-< Para eliminar directorio hace falta añadir dir al rm.
+> Para eliminar directorio hace falta añadir dir al rm.
