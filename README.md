@@ -1,7 +1,15 @@
 # T3SIJoelExposito
 ## Partiendo de tu directorio de inicio, realiza cada uno de los siguientes apartados:
 - ## Haz que tu directorio de trabajo actual sea el directorio padre de tu directorio de inicio.
-Escribe:
+Primero vemos en que directorio nos encontramos con:
+~~~~
+pwd
+~~~~
+Nos entregaría:
+~~~~
+TuNombreUsuario@TuNombreUsuario-VirtualBox:~/home/TuNombreUsuario$
+~~~~
+Para ir al directorio padre hacemos:
 ~~~~
 cd ..
 ~~~~
